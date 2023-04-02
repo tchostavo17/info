@@ -1,0 +1,12 @@
+ssh-keygen -t rsa -b 2048 -C "my@mail.com"
+
+-> add to ~/.ssh/config file
+
+git config --list
+
+git config user.name "tchostavo17"
+git config user.email "tchostavo17@proton.me"
+
+git remote add origin git@ph:tchostavo17/scanner.git
+or
+git remote set-url origin git@ph:tchostavo17/scanner.git
