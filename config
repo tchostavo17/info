@@ -1,0 +1,9 @@
+# My Personal Github
+Host github.com
+User main@mail.com
+IdentityFile ~\.ssh\main_rsa_key
+
+# My PH Github
+Host github.com
+User thostavo17@proton.me
+IdentityFile ~\.ssh\ph
