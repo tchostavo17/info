@@ -10,3 +10,8 @@ git config user.email "tchostavo17@proton.me"
 git remote add origin git@ph:tchostavo17/scanner.git
 or
 git remote set-url origin git@ph:tchostavo17/scanner.git
+
+FOR LINUX
+*key unlock (no pass error):
+chmod 400 ~/.ssh/ph
+
